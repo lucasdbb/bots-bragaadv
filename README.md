@@ -1,8 +1,8 @@
 # Backup dos bots da Braga Advogados
 
-Backup dos briefs dos bots e das skills da Braga Advogados, datado de 05/11/2026 (America/Recife).
+Backup dos briefs dos bots e das skills da Braga Advogados, datado de 06/11/2026 (America/Recife).
 
-São 31 briefs em `bots/` e 20 skills em `skills/`, além da impressão digital da biblioteca em [`skills/.library-fingerprint`](skills/.library-fingerprint). Os 52 arquivos foram guardados como vieram, sem edição.
+São 32 briefs em `bots/` e 20 skills em `skills/`, além da impressão digital da biblioteca em [`skills/.library-fingerprint`](skills/.library-fingerprint). Os arquivos deste backup foram guardados como vieram, sem edição. Diretor Agentes e Curador PGFN permanecem da versão anterior.
 
 Este backup não contém senhas nem segredos.
 
@@ -40,6 +40,7 @@ Este backup não contém senhas nem segredos.
 | [Reuniões](bots/reunies.md) | `bots/reunies.md` |
 | [SEO & AEO](bots/seo-aeo.md) | `bots/seo-aeo.md` |
 | [Stalk Bot](bots/stalk-bot.md) | `bots/stalk-bot.md` |
+| [Transação Estadual](bots/transao-estadual.md) | `bots/transao-estadual.md` |
 | [Transação por Adesão](bots/transao-por-adeso.md) | `bots/transao-por-adeso.md` |
 
 ## Skills
@@ -54,8 +55,8 @@ Este backup não contém senhas nem segredos.
 - [Humanizador na voz do Lucas](skills/humanizador-voz-lucas/SKILL.md)
 - [Manutenção de briefs](skills/manutencao-de-briefs/SKILL.md)
 - [Memória Braga Advogados](skills/memoria-braga-advogados/SKILL.md)
-- [Método do CFO ANA](skills/metodo-cfo/SKILL.md)
 - [Metodologia de pesquisa (5 fases)](skills/metodologia-de-pesquisa-em-5-fases/SKILL.md)
+- [Método do CFO ANA](skills/metodo-cfo/SKILL.md)
 - [Navegação eficiente](skills/navegacao-eficiente/SKILL.md)
 - [Painel de status](skills/painel-de-status/SKILL.md)
 - [Passagem entre bots](skills/passagem-entre-bots/SKILL.md)
